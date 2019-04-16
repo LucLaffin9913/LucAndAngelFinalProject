@@ -6,7 +6,5 @@ public class Main {
             
         BlackJack game = new BlackJack("BlackJack");
         game.startGame();
-        game.play();
-        game.declareWinner();
     }
 }
